@@ -1,5 +1,5 @@
 # Dialy Progress 
-* records in the format
+* Records in the format  
 | Sno | Date | Work |
 
 # Records
