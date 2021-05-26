@@ -1,4 +1,4 @@
-# My Research status
+# My Research Records
 Student: VJS Pranavasri  
 Professor: Venkatesh Choppella  
 
