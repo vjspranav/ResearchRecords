@@ -87,13 +87,13 @@ module.exports = {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           editUrl:
-            'https://github.com/vjspranav/ResearchRecords/edit/documentation/website/',
+            'https://github.com/vjspranav/ResearchRecords/edit/documentation/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            'https://github.com/vjspranav/ResearchRecords/edit/documentation/website/blog/',
+            'https://github.com/vjspranav/ResearchRecords/edit/documentation/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
